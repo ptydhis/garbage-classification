@@ -1,6 +1,6 @@
 ## 🌐 Bahasa | Language
-- 🇮🇩 [Bahasa Indonesia](#analisis-perbandingan-akurasi-arsitektur-resnet-50-dan-vgg16-pada-sistem-klasifikasi-sampah)
-- 🇬🇧 [English](#comparative-analysis-of-resnet-50-and-vgg16-architecture-accuracy-in-garbage-classification-system)
+- 🇮🇩 [Bahasa Indonesia](#🇮🇩-analisis-perbandingan-akurasi-arsitektur-resnet-50-dan-vgg16-pada-sistem-klasifikasi-sampah)
+- 🇬🇧 [English](#🇬🇧-comparative-analysis-of-resnet-50-and-vgg16-architecture-accuracy-in-garbage-classification-system)
 
 ---
 
